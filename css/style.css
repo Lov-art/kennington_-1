@@ -1,0 +1,92 @@
+html,
+body,
+.view {
+  height: 100%;
+}
+.card-img {
+  width: 20%;
+}
+header {
+  height: 60%;
+}
+
+.view {
+  background-image: url("../img/architecture-2178915_1920.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner-content {
+  padding-top: 5%;
+}
+
+.banner-form button {
+  background-color: #fe551e;
+  width: 50%;
+  display: initial;
+}
+
+.banner-text {
+  font-weight: normal;
+}
+.count {
+  font-weight: normal;
+}
+.banner-span {
+  background-color: #a20f2b;
+}
+
+.span-text {
+  background-color: #fe551e;
+}
+.hr-muted {
+  border-top: 3px solid #117ff8;
+  width: 80px;
+}
+.hr-style {
+  margin-left: 0;
+  border-top: 1px solid #117ff8;
+  width: 80px;
+}
+
+.list-program li i {
+  margin-right: 15px;
+}
+.study-button a {
+  background-color: #fe551e;
+  color: white;
+}
+
+.advantages {
+  border: 15px solid white;
+}
+
+.quote {
+  line-height: 2;
+}
+.footer-content {
+  background-image: url("../img/business-suit-690048_1920.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer-input {
+  outline: none;
+  background: transparent;
+  outline: none;
+  color: white;
+  font-size: 1em;
+  border: 1px solid #fff;
+  display: inline-block;
+  padding-left: 10px;
+}
+.footer-input::placeholder {
+  color: white;
+}
+
+.copyright p {
+  margin-left: -45%;
+  margin-bottom: 0;
+}
